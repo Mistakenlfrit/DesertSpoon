@@ -44,7 +44,7 @@ enchantments:
 
 dimensions:
  # Enable / Disable Dimensions
- enable: true
+ enable: false
  nether:
   levelName: "teanether"
   # Vanilla-Like Nether Tranfer is not perfect and would take more time (possibly lag)...
@@ -72,7 +72,7 @@ weather:
  # Maximum Weather Duration (IN TICKS)
  maxDuration: 12000
  # If lightning should be spawned in stormy weather
- lightning: true
+ lightning: false
 
 player:
  # Enable to dis-allow container interactions & item dropping when in creative
